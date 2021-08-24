@@ -6,7 +6,7 @@ const textConfig = {
   text5: "Không!!!!!!!!",
   text6: "Yêu ơi là yêu <3",
   text7: "Lí do cô giáo yêu anh là gì :vvvv",
-  text8: "Gửi cho tớ <3",
+  text8: "Gửi cho anh <3",
   text9: "Vì anh Chung đẹp trai nhất hệ mặt trời luôn",
   text10: "Anh biết mà ^^ Yêu cô giáo 300.000 luôn",
   text11:
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "http://fb.com/vuchungbt";
           },
         });
       }
