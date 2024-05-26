@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cô giáo!",
-  text2: "Anh có điều này muốn hỏi cô giáo nhớ phải trả lời thật lòng nhaaaaa",
-  text3: "Cô giáo có yêu anh không????????? ._.",
-  text4: "Nếu ko trả lời mà thoát ra tức là muốn làm vợ a rùi đó nha :v",
+  text1: "He luu Em iu vấuuu!",
+  text2: "Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaaaa",
+  text3: "Anh có đẹp trai không????????? ._.",
+  text4: "Không trả lời mà thoát ra là xui xẻo rán chịu nha :v tối nay coi phim nó thò tay ra thật đó",
   text5: "Không!!!!!!!!",
-  text6: "Yêu ơi là yêu <3",
-  text7: "Lí do cô giáo yêu anh là gì :vvvv",
+  text6: "Có, em <3 anh Chung",
+  text7: "Ngoài ra còn gì nữa hông? :v",
   text8: "Gửi cho anh <3",
-  text9: "Vì anh Chung đẹp trai nhất hệ mặt trời luôn",
-  text10: "Anh biết mà ^^ Yêu cô giáo 300.000 luôn",
+  text9: "Em nguyện sống chết vì anh luôn, cả đời bên anh luôn......",
+  text10: "Anh biết mà ^^ Yêu em 3000",
   text11:
-    "Gửi a địa chỉ, hết dịch a qua đón đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko nhắn 1 trái tim cho a vào zalo đi",
+    "Gửi a địa chỉ, mai a nói ba mang rụ với trầu cau tới :))) ",
   text12: "Okiiiiii <3 :))))",
 };
 
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Gì nữa nè'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
