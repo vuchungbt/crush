@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Em nguyện sống chết vì anh luôn, cả đời bên anh luôn......",
   text10: "Anh biết mà ^^ Yêu em 3000",
   text11:
-    "Gửi a địa chỉ, mai a nói ba mang rụ với trầu cau tới :))) ",
+    "Mai a nói ba mang rụ với trầu cau tới :))) ",
   text12: "Okiiiiii <3 :))))",
 };
 
